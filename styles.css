@@ -11,9 +11,19 @@ h1 {
 #hand-up-div {
   background-color: orange;
   visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
 
 }
 
 #hand-down-div {
   background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
 }
