@@ -29,6 +29,7 @@ h1 {
 }
 
 #hand-down-div {
+  background-color: #ECECEC;
   display: flex;
   align-items: center;
   justify-content: center;
