@@ -8,3 +8,8 @@ body {
 h1 {
   color: red;
 }
+
+
+.hidden {
+  visibility: hidden;
+}
