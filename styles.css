@@ -10,7 +10,7 @@ h1 {
 
 #hand-up-div {
   background-color: orange;
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   height: 100vh;
