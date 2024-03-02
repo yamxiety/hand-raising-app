@@ -9,7 +9,12 @@ h1 {
   color: red;
 }
 
-
-.hidden {
+#hand-up-div {
+  background-color: orange;
   visibility: hidden;
+
+}
+
+#hand-down-div {
+  background-color: purple;
 }
