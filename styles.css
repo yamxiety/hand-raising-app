@@ -10,7 +10,6 @@ h1 {
 
 #hand-up-div {
   background-color: orange;
-  visibility: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
