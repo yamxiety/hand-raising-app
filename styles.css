@@ -18,6 +18,10 @@ h1 {
 
 }
 
+#hand-up-div #emoji {
+  font-size: 20em;
+}
+
 #hand-down-div {
   background-color: purple;
   display: flex;
