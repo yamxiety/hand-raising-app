@@ -2,6 +2,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer:
+
 }
 
 h1 {
@@ -20,6 +22,7 @@ h1 {
 
 #hand-up-div #emoji {
   font-size: 20em;
+
 }
 
 #hand-down-div {
